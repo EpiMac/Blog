@@ -2,8 +2,8 @@
 layout: post
 title:  "Taker et EpiMac s’associent pour proposer aux étudiants une expertise technologique maximisée."
 author: "EpiMac"
-comments: false
-tags: EpiMac, Partenariat
+comments: true
+tags: EpiMac Partenariat
 ---
 
 Nous sommes heureux de vous annoncer que  [Taker](http://taker.epitech.eu/), junior d’[Epitech](http://epitech.eu/), rejoint officiellement nos partenaires exécutifs.

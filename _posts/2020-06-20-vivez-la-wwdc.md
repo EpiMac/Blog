@@ -2,8 +2,8 @@
 layout: post
 title:  "WWDC Party : Vivez la WWDC 2020 depuis votre canapé."
 author: "EpiMac"
-comments: false
-tags: EpiMac, WWDCParty, Évènements, WWDC
+comments: true
+tags: EpiMac WWDCParty Évènements WWDC
 ---
 
 #### Le 22 juin aura lieu la 31ème édition annuelle de la Worldwide Developers Conference organisée par Apple dans un tout nouveau format en ligne. À cette occasion, rejoignez la communauté WWDC Party pour débriefer en temps réel les annonces.
