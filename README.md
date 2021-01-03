@@ -1,2 +1,2 @@
-# blog
-🖥 The EpiMac Team Blog
+# 🖥 EpiMac Blog
+The EpiMac Blog is available at blog.epimac.org
