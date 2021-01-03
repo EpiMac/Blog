@@ -34,7 +34,7 @@ plugins:
   - jemoji
   
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 paginate:       5
 
 # Excludes
