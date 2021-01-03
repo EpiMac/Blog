@@ -1,0 +1,44 @@
+# Site settings
+title:          EpiMac Blog
+description:    "Blog officiel d'EpiMac"
+#baseurl:        "/blog"
+url:            "https://epimac.github.io"
+
+# Google Analytics
+#google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         EpiMac
+  url:          https://epimac.org
+  email:        contact@epimac.org
+  
+# Destination (for GitHub Pages)
+destination: docs/
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jemoji
+  
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock ]
+
+# Disqus (Set to your disqus id)
+#disqus:         jekyll-tale
