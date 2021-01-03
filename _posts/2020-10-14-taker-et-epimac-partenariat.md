@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Taker et EpiMac s’associent pour proposer aux étudian-e-s une expertise technologique maximisée."
+title:  "Taker et EpiMac s’associent pour proposer aux étudiants une expertise technologique maximisée."
 author: "EpiMac"
-comments: true
+comments: false
 tags: EpiMac, Partenariat
 ---
 
@@ -10,7 +10,7 @@ Nous sommes heureux de vous annoncer que  [Taker](http://taker.epitech.eu/), jun
 
 Ce partenariat sera axé autour de l’organisation d’évènements, conférences et formations networking organisés sur différents campus en France et à destination de larges catégories d’étudiants, experts de la tech et passionnés. Restez en contact sur nos pages respectives ([Facebook EpiMac](https://www.facebook.com/EpiMac.org)  /  [Facebook Taker](https://www.facebook.com/takerepitech)) pour en savoir plus sur nos futurs évènements.
 
-![Placeholder image](https://miro.medium.com/max/2400/1*I_9g0x6HqkLtrN7I-43Mzw.png "Placeholder image")
+![Placeholder image](https://miro.medium.com/max/2400/1*I_9g0x6HqkLtrN7I-43Mzw.png "EpiMac x Taker")
 
 ## À propos de Taker :
 
