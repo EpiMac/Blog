@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "À propos"
+author: "EpiMac Team"
 permalink: /about/
 ---
 
